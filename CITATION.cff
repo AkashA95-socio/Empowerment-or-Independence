@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the derived data, please cite it as below, and cite NFHS-5 (IIPS and ICF, 2021) as the underlying data source."
+title: "Empowerment or Independence? Women's autonomy indices and spousal violence across Indian states (NFHS-5)"
+type: software
+version: 0.1.0
+date-released: 2026-09-08
+authors:
+  - family-names: "A"
+    given-names: "Akash"
+    email: "akashaluni95@gmail.com"
+repository-code: "https://github.com/YOUR-HANDLE/nfhs5-autonomy-violence"
+license: MIT
+keywords:
+  - NFHS-5
+  - women's empowerment
+  - intimate partner violence
+  - India
+  - gender
